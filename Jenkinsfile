@@ -6,6 +6,7 @@ pipeline {
             steps {
                 echo 'getting from github'
                 echo 'checout completed'
+                echo " change request"
             }
         }
         stage('Build') {
