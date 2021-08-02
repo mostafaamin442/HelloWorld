@@ -46,7 +46,7 @@ public class NewTest {
 	public void CloseDriver() {
 		
 		driver.close();
-		//test
+		//hello from CI
 	}
 
 
